@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class FirstComponentComponent implements OnInit {
 
   constructor() { }
-
+  firstcomponent = "Entered in new component created";
   ngOnInit() {
   }
 
